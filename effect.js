@@ -188,9 +188,9 @@ $('document').ready(function(){
 		$('#b55').animate({top:240, left: vw+50},800);
 		$('#b66').animate({top:240, left: vw+150},800);
 		$('#b77').animate({top:240, left: vw+250},800);
-		$('#b88').animate({top:240, left: vw+250},800);
-		$('#b99').animate({top:240, left: vw+350},800);
-		$('#b1010').animate({top:240, left: vw+450},800);
+		$('#b88').animate({top:240, left: vw+350},800);
+		$('#b99').animate({top:240, left: vw+450},800);
+		$('#b1010').animate({top:240, left: vw+550},800);
 		$('.balloons').css('opacity','0.9');
 		$('.balloons h2').fadeIn(3000);
 		$(this).fadeOut('slow').delay(3000).promise().done(function(){
