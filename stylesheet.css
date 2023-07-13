@@ -507,6 +507,7 @@ body {
 	-o-animation: bulb_glow_orange linear 5s;
 	-ms-animation: bulb_glow_orange linear 5s;
 	animation: bulb_glow_orange linear 5s;
+	
 }
 
 @-webkit-keyframes bulb_glow_orange {
@@ -1115,13 +1116,13 @@ audio {
 	background-image: url('b7.png');
 }
 #b8,#b88{
-	background-image: url('b1.png');
+	background-image: url('b8.png');
 }
 #b9,#b99{
-	background-image: url('b2.png');
+	background-image: url('b9.png');
 }
 #b10,#b1010{
-	background-image: url('b3.png');
+	background-image: url('b10.png');
 }
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
